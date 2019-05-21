@@ -1,6 +1,7 @@
 [Angular2]: https://angular.io/
 
 ![Yandex Maps API as an Angular2 components](https://raw.githubusercontent.com/AnteaterKit/angular2-yandex-maps/master/ya-an.png)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FGorniv%2Fangular2-yandex-maps.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FGorniv%2Fangular2-yandex-maps?ref=badge_shield)
 #### Yandex Maps API as an Angular2 components
 
 [Wiki](https://github.com/AnteaterKit/angular2-yandex-maps/wiki)
@@ -91,3 +92,7 @@ Style.css
    height: 200px;
 }
 ```
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FGorniv%2Fangular2-yandex-maps.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FGorniv%2Fangular2-yandex-maps?ref=badge_large)
